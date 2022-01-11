@@ -21,13 +21,7 @@
    <h1 align="center">All Users basic info</h1>
    <hr>
 
-        <div style="position: relative; top: 60px; right:-150px">
-            <table bgcolor="black" border="3px" >
-                <tr>
-                    <th style="padding: 30px">Name</th>
-                    <th style="padding: 30px">Email</th>
-                    <th style="padding: 30px">Action</th>
-                </tr>
+        
             
 
                 @foreach($data as $data)
